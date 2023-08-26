@@ -4,7 +4,7 @@ Anomarly Network Detection means that detect network packets and classify them w
 
 
 
-#Installation & Program Guide
+# Installation & Program Guide
 
 Installation
 
@@ -17,11 +17,11 @@ Installation
 Porgram Guide 
 ```bash
 analysis.py -Analyzing resuls of multiple classifier
-trainingData.py - statistics of Train Data for Data Modelling and Prediction .
-testingData.py - statistics of Test Data for Data Modelling and Prediction .
+trainingData.py - statistics of Train Data for Data Modelling and Prediction 
+testingData.py - statistics of Test Data for Data Modelling and Prediction
 Logistic_Regression.py - modelling and traing Logistic Regression Classifer and giving results
-Random_Forest.py - modelling and traing Random_Forest Classifer and giving results
-Naive_Bayes.py - modelling and traing Naive_Bayes Classifer and giving results
-Decision_Tree.py - modelling and traing Decision_Tree Classifer and giving results
-Support_Vector.py - modelling and traing Support_Vector Machine Classifer and giving results
+Random_Forest.py - modelling and traing Random Forest Classifer and giving results
+Naive_Bayes.py - modelling and traing Naive Bayes Classifer and giving results
+Decision_Tree.py - modelling and traing Decision Tree Classifer and giving results
+Support_Vector.py - modelling and traing Support Vector Machine Classifer and giving results
 ```
