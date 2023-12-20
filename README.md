@@ -1,4 +1,4 @@
-# Anomarly Network Detection
+# Network Intrusion Data Analysis
 
 Successfully developing a Python script to analyze network intrusions and identify protocols using multi-level classification.Comparing the performance of different classification algorithms and identifing the most suitable one for the specific dataset.Validating theoretical concepts of multi-level classification andalgorithm comparison using practical implementation.
 
