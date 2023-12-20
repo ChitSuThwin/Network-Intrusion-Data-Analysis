@@ -1,6 +1,6 @@
 # Anomarly Network Detection
 
-Anomarly Network Detection means that detect network packets and classify them which are attacked or not . For attacked packets , type of attacks is classfied . Then, making prediction of the type of attack for future network packets. 
+Successfully developing a Python script to analyze network intrusions and identify protocols using multi-level classification.Comparing the performance of different classification algorithms and identifing the most suitable one for the specific dataset.Validating theoretical concepts of multi-level classification andalgorithm comparison using practical implementation.
 
 
 
